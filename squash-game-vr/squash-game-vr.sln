@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squash-game-vr.CSharp.Plugins", "squash-game-vr.CSharp.Plugins.csproj", "{42FC0EB2-3EC3-99F4-1E86-7BF420C8512D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squash-game-vr.CSharp", "squash-game-vr.CSharp.csproj", "{D786FC62-E047-C23D-4996-61941CC4B674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squash-game-vr.CSharp.Editor", "squash-game-vr.CSharp.Editor.csproj", "{5D84AD8A-FAE3-7975-1673-6D65FD2A49AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FC0EB2-3EC3-99F4-1E86-7BF420C8512D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FC0EB2-3EC3-99F4-1E86-7BF420C8512D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FC0EB2-3EC3-99F4-1E86-7BF420C8512D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FC0EB2-3EC3-99F4-1E86-7BF420C8512D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D786FC62-E047-C23D-4996-61941CC4B674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D786FC62-E047-C23D-4996-61941CC4B674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D786FC62-E047-C23D-4996-61941CC4B674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D786FC62-E047-C23D-4996-61941CC4B674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D84AD8A-FAE3-7975-1673-6D65FD2A49AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D84AD8A-FAE3-7975-1673-6D65FD2A49AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D84AD8A-FAE3-7975-1673-6D65FD2A49AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D84AD8A-FAE3-7975-1673-6D65FD2A49AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,2 @@
-# hack-ust
-SQUASH GAME
+# squashMaster
+A project of hackUST2016
